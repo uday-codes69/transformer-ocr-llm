@@ -1,0 +1,12 @@
+torch
+torchvision
+transformers
+opencv-python
+numpy
+editdistance
+jiwer
+pillow
+requests
+jupyter
+ipywidgets
+python-dotenv
